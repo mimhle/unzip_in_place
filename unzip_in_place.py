@@ -2,8 +2,9 @@
 Usage:
     python unzip_in_place.py <path to folder>
 Limitations:
-    Currently only support ".zip" files (".rar" not support yet) 
+    Currently only support ".zip" files (".rar" not support yet)
     No progress bar
+    Very slow compare to 7zip or winrar
 """
 
 import os
